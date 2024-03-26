@@ -9,7 +9,7 @@
 ### Test
 
 ```shell
-$ forge test --rpc-url https://eth-mainnet.g.alchemy.com/v2/PQOZmhjIwV8bO3iwIQR0cDGnQMNeXKs_ --evm-version cancun -vvvvv
+$ forge test --rpc-url https://eth-sepolia.g.alchemy.com/v2/KKOCA1KKaP9OseUd8ZhTyYDgp05gtHJc --evm-version cancun -vvvvv
 ```
 
 
